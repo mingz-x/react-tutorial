@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tutorial/static/css/main.96807f36.css",
+    "main.js": "/react-tutorial/static/js/main.95913424.js",
+    "static/js/453.53cb6ab8.chunk.js": "/react-tutorial/static/js/453.53cb6ab8.chunk.js",
+    "index.html": "/react-tutorial/index.html",
+    "main.96807f36.css.map": "/react-tutorial/static/css/main.96807f36.css.map",
+    "main.95913424.js.map": "/react-tutorial/static/js/main.95913424.js.map",
+    "453.53cb6ab8.chunk.js.map": "/react-tutorial/static/js/453.53cb6ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96807f36.css",
+    "static/js/main.95913424.js"
+  ]
+}
